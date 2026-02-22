@@ -297,7 +297,7 @@ Tested using:
 ## 👩‍💻 Author
 
 **Saranya**
-GitHub: [https://github.com/SARANYAVENGATESHWARAN](https://github.com/SARANYAVENGATESHWARAN)
-Documentation Link:https://docs.google.com/document/d/1KqBxy-0XF68JydHTnZ56u4DCosSiXiU7qaRugV-lHwY/edit?usp=sharing
+## GitHub: [https://github.com/SARANYAVENGATESHWARAN](https://github.com/SARANYAVENGATESHWARAN)
+## Documentation Link:https://docs.google.com/document/d/1KqBxy-0XF68JydHTnZ56u4DCosSiXiU7qaRugV-lHwY/edit?usp=sharing
 
 

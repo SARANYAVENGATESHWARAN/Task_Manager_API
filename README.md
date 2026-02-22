@@ -2,7 +2,6 @@
 
 A secure and scalable RESTful API for managing tasks with user authentication built using **Node.js, Express.js, and MongoDB Atlas**.
 
----
 
 ## 📌 Table of Contents
 
@@ -20,7 +19,7 @@ A secure and scalable RESTful API for managing tasks with user authentication bu
 - [Testing](#testing)
 - [Author](#author)
 
----
+
 
 ## 📖 About the Project
 
@@ -33,7 +32,6 @@ This **Task Manager API** allows users to:
 
 The application is deployed on **Render** and uses **MongoDB Atlas** as the cloud database.
 
----
 
 ## ✨ Features
 
@@ -55,7 +53,7 @@ The application is deployed on **Render** and uses **MongoDB Atlas** as the clou
 - Filtering (completed, priority, category)
 - Sorting (createdAt, priority, dueDate)
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -123,7 +121,6 @@ This project uses **MongoDB Atlas (Free Tier M0)**.
 5. Copied connection string
 6. Added connection string to `.env` file
 
----
 
 ## 📌 API Endpoints
 
@@ -134,7 +131,6 @@ This project uses **MongoDB Atlas (Free Tier M0)**.
 | POST   | `/api/users/register` | Register user | ❌    |
 | POST   | `/api/users/login`    | Login user    | ❌    |
 
----
 
 ### 📋 Task Routes (Protected)
 
@@ -146,7 +142,6 @@ This project uses **MongoDB Atlas (Free Tier M0)**.
 | PUT    | `/api/tasks/:id` | Update task     | ✅    |
 | DELETE | `/api/tasks/:id` | Delete task     | ✅    |
 
----
 
 ## 🔎 Query Parameters
 
@@ -190,7 +185,7 @@ Example:
 GET /api/tasks?sortBy=createdAt&order=desc
 ```
 
----
+
 
 ## 🗃 Database Schema
 
@@ -204,7 +199,7 @@ GET /api/tasks?sortBy=createdAt&order=desc
 | createdAt | Date            | Auto     |
 | updatedAt | Date            | Auto     |
 
----
+
 
 ### 📋 Task Schema
 
@@ -220,7 +215,6 @@ GET /api/tasks?sortBy=createdAt&order=desc
 | createdAt   | Date                | Auto     |
 | updatedAt   | Date                | Auto     |
 
----
 
 ### 🔗 Entity Relationship
 
@@ -231,7 +225,6 @@ USER (1) ───────────► (N) TASK
 • Each Task belongs to One User
 ```
 
----
 
 ## 📂 Project Structure
 
@@ -261,7 +254,7 @@ task-manager-api/
     └── taskRoutes.js
 ```
 
----
+
 
 ## 🚀 Deployment (Render)
 
@@ -277,7 +270,7 @@ task-manager-api/
 5. Added Environment Variables
 6. Deployed successfully
 
----
+
 
 ## 🧪 Testing
 
@@ -299,12 +292,12 @@ Tested using:
 * ✅ Sorting
 * ✅ Unauthorized Access (401)
 
----
+
 
 ## 👩‍💻 Author
 
 **Saranya**
 GitHub: [https://github.com/SARANYAVENGATESHWARAN](https://github.com/SARANYAVENGATESHWARAN)
 Documentation Link:https://docs.google.com/document/d/1KqBxy-0XF68JydHTnZ56u4DCosSiXiU7qaRugV-lHwY/edit?usp=sharing
----
+
 

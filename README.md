@@ -58,9 +58,9 @@ The application is deployed on **Render** and uses **MongoDB Atlas** as the clou
 ---
 
 ## 🛠 Tech Stack
----------------------------------------
+-
 | Technology    | Purpose             |
-|------------ --|---------- ----------|
+|---------------|---------- ----------|
 | Node.js       | Runtime environment |
 | Express.js    | Backend framework   |
 | MongoDB Atlas | Cloud database      |
@@ -68,7 +68,7 @@ The application is deployed on **Render** and uses **MongoDB Atlas** as the clou
 | JWT           | Authentication      |
 | bcryptjs      | Password hashing    |
 | Render        | Cloud hosting       |
----------------------------------------
+
 ---
 
 ## ⚙️ Installation
@@ -305,6 +305,6 @@ Tested using:
 
 **Saranya**
 GitHub: [https://github.com/SARANYAVENGATESHWARAN](https://github.com/SARANYAVENGATESHWARAN)
-
+Documentation Link:https://docs.google.com/document/d/1KqBxy-0XF68JydHTnZ56u4DCosSiXiU7qaRugV-lHwY/edit?usp=sharing
 ---
 

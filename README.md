@@ -58,16 +58,16 @@ The application is deployed on **Render** and uses **MongoDB Atlas** as the clou
 ---
 
 ## 🛠 Tech Stack
--
-| Technology    | Purpose             |
-|---------------|---------- ----------|
-| Node.js       | Runtime environment |
-| Express.js    | Backend framework   |
-| MongoDB Atlas | Cloud database      |
-| Mongoose      | ODM for MongoDB     |
-| JWT           | Authentication      |
-| bcryptjs      | Password hashing    |
-| Render        | Cloud hosting       |
+
+| Technology | Purpose |
+|------------|----------|
+| Node.js | Runtime environment |
+| Express.js | Backend framework |
+| MongoDB Atlas | Cloud database |
+| Mongoose | ODM for MongoDB |
+| JWT | Authentication |
+| bcryptjs | Password hashing |
+| Render | Cloud hosting |
 
 ---
 
